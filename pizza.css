@@ -13,12 +13,13 @@ body
     padding: 1em;
     margin-left: 0em;
     flex:1
+    
 }
 
 .large-pizza{
     background-color: #F6E7CB;
     border: 1px solid;
-    border-radius: 1em;
+    border-radius: 3em;
     margin: 1em;
     padding: 1em;
     margin-left: 0em;
@@ -27,7 +28,7 @@ body
 
 .small-pizza{
     background-color: #D6FFB7;
-    border-radius: 2em;
+    border-radius: 3em;
     border: 1px solid;
     margin: 1em;
     padding: 1em;
@@ -37,7 +38,7 @@ body
 .contact{
     background-color: #F0EC57;
     font-weight: bold;
-    border-radius: 0.3em;
+    border-radius: 3em;
     border: 2px solid;
     margin: 0em;
     padding: 1em;
